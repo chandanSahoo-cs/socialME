@@ -4,6 +4,9 @@
 ## Description:
 This is a dynamic social media platform designed to empower users to share their thoughts and creativity effortlessly. Users can create and upload posts with text and image content to express themselves, share experiences, or showcase their talents.
 
+## Live link:
+https://social-me-seven.vercel.app/
+
 ## Key features include:
 
 - Create Posts: Share updates, stories, or creative content with text and images.
